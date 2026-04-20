@@ -16,7 +16,7 @@
 
 ## Overview
 
-Naari Shakthi is a full-stack healthcare platform designed to automate medicine dispensing, monitor inventory in real time, and deliver AI-powered health analytics to patients. The system serves three user roles — patients, pharmacists, and administrators — each with a dedicated dashboard and access-controlled API endpoints.
+Naari Shakthi is a full-stack healthcare platform designed to automate medicine dispensing, monitor inventory in real time, and deliver AI-powered health analytics to patients. The system serves three user roles - patients, pharmacists, and administrators - each with a dedicated dashboard and access-controlled API endpoints.
 
 The platform was built to solve a real problem in under-resourced healthcare settings: manual medicine dispensing is slow, error-prone, and lacks real-time inventory visibility. Naari Shakthi automates the entire workflow from health assessment to dispensing notification.
 
@@ -184,7 +184,7 @@ npm start
 This project was reviewed, recognized, and approved by the **Karnataka State Council for Science and Technology (KSCST)** under the Engineering and Women in Technology (EWIT) initiative — validating its real-world applicability in healthcare settings.
 
 **IEEE Publication**
-The underlying hardware system — *"Smart Sanitary Pad and Medicine Vending Machine with Automated Dispensing, Disposal, and Notification System"* — was published in **IEEE Xplore Digital Library** via the International Journal For Technological Research In Engineering (IJTRE), Volume II, January 2024. ISSN: 2347–4718.
+The underlying hardware system — *"Smart Sanitary Pad and Medicine Vending Machine with Automated Dispensing, Disposal, and Notification System"* - was published in **IEEE Xplore Digital Library** via the International Journal For Technological Research In Engineering (IJTRE), Volume II, January 2024. ISSN: 2347–4718.
 
 ---
 
@@ -192,7 +192,7 @@ The underlying hardware system — *"Smart Sanitary Pad and Medicine Vending Mac
 
 | Metric | Result |
 |---|---|
-| Manual oversight reduction | ~70% |
+| Manual oversight reduction | aprx 70% |
 | Inventory alert response time | < 2 minutes (vs. hours manually) |
 | Health recommendation accuracy | Validated against clinical guidelines |
 | System uptime during pilot | 99.2% |
