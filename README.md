@@ -9,8 +9,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-> 🏆 **Government Recognized** — Approved by Karnataka State Council for Science and Technology (KSCST) under EWIT
-> 📄 **IEEE Published** — Related research published in IEEE Xplore · IJTRE Vol. II · January 2024
+> 🏆 **Government Recognized** - Approved by Karnataka State Council for Science and Technology (KSCST) under EWIT                                                     
+> 📄 **IEEE Published** - Related research published in IEEE Xplore · IJTRE Vol. II · January 2024
 
 ---
 
